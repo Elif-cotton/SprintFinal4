@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sprint4</string>
+
+    <string name="abrir">ABRIR</string>
+    <string name="texto2">Deadpool y Wolverine la batalla contra un enemigo común ya está en cines.</string>
+    <string name="deadpool">Deadpool 3 -5 Julio 2024</string>
+    <string name="imagen_1_deadpool">imagen 1 Deadpool</string>
+    <string name="imagen_2_deadpool">imagen 2 Deadpool</string>
+    <string name="imagen_3_deadpool">imagen 3 Deadpool</string>
+    <string name="abrir_sitio_web">ABRIR SITIO WEB</string>
+    <string name="regresar">REGRESAR</string>
+</resources>
